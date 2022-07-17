@@ -1,0 +1,16 @@
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\bin\Debug\net5.0\InversePermutationSolution.exe
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\bin\Debug\net5.0\InversePermutationSolution.deps.json
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\bin\Debug\net5.0\InversePermutationSolution.runtimeconfig.json
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\bin\Debug\net5.0\InversePermutationSolution.runtimeconfig.dev.json
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\bin\Debug\net5.0\InversePermutationSolution.dll
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\bin\Debug\net5.0\InversePermutationSolution.pdb
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.AssemblyInfo.cs
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.dll
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\refint\InversePermutationSolution.dll
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.pdb
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\InversePermutationSolution.genruntimeconfig.cache
+C:\Users\Decagon\Documents\PracticeProject\InversePermutationSolution\InversePermutationSolution\obj\Debug\net5.0\ref\InversePermutationSolution.dll
